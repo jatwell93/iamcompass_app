@@ -1,0 +1,49 @@
+Business Benefits:
+  now: "Identify key decisions that rely on quality information."
+  next: "Measure loss from poor IA access or quality."
+  future: "Link IAM to KPIs and strategic dashboards."
+
+Executive Awareness:
+  now: "Deliver a board briefing on IAM and the risks of poor data managment."
+  next: "Assign an IAM sponsor."
+  future: "Include IAM metrics in board reports and annaul shareholder reports."
+
+Business Environment:
+  now: "Map current governance gaps in IAM."
+  next: "Align IAM policy with risk, legal, compliance needs."
+  future: "Embed IAM accountability in job descriptions."
+
+Leadership & Management:
+  now: "Nominate IAM champions in every department."
+  next: "Create a shared IAM vision."
+  future: "Reward IAM leadership with incentives."
+
+Information Environment:
+  now: "Review asset classification and ownership gaps."
+  next: "Implement policy for metadata, tagging, and retention."
+  future: "Automate classification based on content rules."
+
+Information Systems:
+  now: "Identify outdated or retired tools."
+  next: "Pilot modern IAM tech (access management etc)."
+  future: "Integrate IAM tools across cloud and on-site systems."
+
+Information Behaviour:
+  now: "Survey staff habits and pain points managing information."
+  next: "Run IAM training and workshops for all roles."
+  future: "IAM becomes 'business as usual'."
+
+Information Quality:
+  now: "Audit high-risk assets for accuracy."
+  next: "Establish roles for data stewards and validators (see: DAMA wheel)."
+  future: "Automate quality checks with dashboards."
+
+Information Performance:
+  now: "Track issues caused by poor info."
+  next: "Connect IAM to risk management, efficiency, and cost savings."
+  future: "IAM drives business performance targets."
+
+Justification:
+  now: "Estimate cost of poor IAM from recent incidents."
+  next: "Develop cost-benefit cases for key initiatives."
+  future: "IAM is funded and benchmarked just like all core infrastructure."
