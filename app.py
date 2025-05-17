@@ -9,14 +9,14 @@ with open("recommendations.yaml") as f:
     roadmap = yaml.safe_load(f)
 
 # Page config
-st.set_page_config(page_title="IAM Compass", page_icon="🧭")
+st.set_page_config(page_title="IAM Compass", page_icon=":open_file_folder:")
 
-st.title("🧭 IAM Compass")
-st.markdown("Assess your organisation’s Information Asset Maturity (based on the HIAM model).")
+st.title(":open_file_folder: IAM Compass")
+st.markdown("Assess your organisation’s Information Asset Maturity")
 
 # Collect scores
 scores = {}
-st.markdown("### 📊 Rate each domain (1 = low maturity, 5 = high)")
+st.markdown("### 📊 Rate each domain (1 = strongly disagree :unlock:, 5 = strongly agree :lock:)")
 for domain, question in questions.items():
     scores[domain] = st.slider(f"**{domain}**: {question}", 1, 5, 3)
 
